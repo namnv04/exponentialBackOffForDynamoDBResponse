@@ -9,5 +9,7 @@ More about DynamoDB response: http://docs.aws.amazon.com/AWSJavaScriptSDK/latest
 Run exponentialBackOff.js again and again  in browser console to see the the result.
 You can also add more console.log to see how it works
 
+Sample DynamoDB response: https://github.com/namnv04/exponentialBackOffForDynamoDBResponse/blob/master/data/sampleDynamoDBResponse.js
+
 # Question
 Open for question
